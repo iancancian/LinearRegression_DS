@@ -18,6 +18,7 @@ Este repositório contém um exemplo de como criar uma visualização do algorit
 3. Atualize o caminho do arquivo CSV no notebook.
 4. Execute o notebook `cp.ipynb`.
 
-## Autor
+## Autores
 
-Ian Cancian
+Ian Cancian RM98387
+Gustavo Ozeki RM98481
